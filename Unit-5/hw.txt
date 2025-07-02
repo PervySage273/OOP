@@ -1,0 +1,1 @@
+explain the concept of method overriding with example? //10 marks
