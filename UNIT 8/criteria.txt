@@ -1,0 +1,8 @@
+project criteria:
+-use oop principles
+-use file handling
+-use exception handling
+-use templates
+
+Project presentation: Date:
+july [24-25]
